@@ -30,10 +30,9 @@ This is a real-time video recorder built using OpenCV.
 
 
 ### ▶ Video
-[▶ Click to watch video](https://github.com/Lohannn03/real_time_video_recorder/blob/main/output.mp4)
+[▶ Click to watch video]https://github.com/user-attachments/assets/302cdbd8-82d3-4f66-8a5e-5a655bf8dd33
 
 
-https://github.com/user-attachments/assets/64eb674d-b423-4279-b42c-c134c316a11f
 
 
 
