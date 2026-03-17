@@ -26,7 +26,7 @@ This is a real-time video recorder built using OpenCV.
 <img width="1233" height="1073" alt="screenshot" src="https://github.com/user-attachments/assets/ca0c192c-4eba-4d04-8bdc-9d1df99cd9ea" />
 
 ### ▶ Video
-[▶ Click to watch video](https://github.com/Lohannn03/repo/raw/main/output.mp4)
+[▶ Click to watch video](https://github.com/Lohannn03/real_time_video_recorder/blob/main/output.mp4)
 
 
 ## 🛠️ Installation
