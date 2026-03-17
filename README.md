@@ -30,7 +30,7 @@ This is a real-time video recorder built using OpenCV.
 
 
 ### ▶ Video
-[▶ Click to watch video]https://github.com/user-attachments/assets/302cdbd8-82d3-4f66-8a5e-5a655bf8dd33
+[▶ Click to watch video](https://github.com/user-attachments/assets/302cdbd8-82d3-4f66-8a5e-5a655bf8dd33)
 
 
 
