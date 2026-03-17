@@ -26,7 +26,7 @@ This is a real-time video recorder built using OpenCV.
 <img width="1233" height="1073" alt="screenshot" src="https://github.com/user-attachments/assets/ca0c192c-4eba-4d04-8bdc-9d1df99cd9ea" />
 
 ### ▶ Video
-https://github.com/user-attachments/assets/3070d4e2-21be-465d-88b7-31ed6b56b170
+[▶ Click to watch demo](output.mp4)
 
 
 ## 🛠️ Installation
