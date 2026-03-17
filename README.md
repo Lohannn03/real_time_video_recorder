@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/07007b6a-58f9-44c8-9c64-69e43792a1c0
-
-
-
-https://github.com/user-attachments/assets/f1633692-c75f-42bc-bc2d-574093768616
-
 # Real Time Video Recorder
 My simple video recorder using OpenCV with real-time recording, FPS display, and image processing features.
 
@@ -39,7 +31,11 @@ This is a real-time video recorder built using OpenCV.
 
 ### ▶ Video
 [▶ Click to watch video](https://github.com/Lohannn03/real_time_video_recorder/blob/main/output.mp4)
-https://github.com/user-attachments/assets/0f8ef30c-b800-40a1-82da-8f0f22294e93
+
+
+https://github.com/user-attachments/assets/64eb674d-b423-4279-b42c-c134c316a11f
+
+
 
 ## 🛠️ Installation
 ```bash
